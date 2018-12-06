@@ -1,0 +1,38 @@
+[
+  {
+    "model": "main.artist",
+    "fk": 1,
+    "fields": {
+      "name": "Kishi Bashi",
+      "photo_url": "https://media.npr.org/assets/img/2016/09/06/kishi-bashi-pr-by-shervin-lainez_wide-d5ac9129be570d7546057c16359d403f78620b55-s1100-c15.jpg",
+      "nationality": "USA"
+    }
+  },
+  {
+    "model": "main.artist",
+    "fk": 2,
+    "fields": {
+      "name": "BROCKHAMPTON",
+      "photo_url": "https://ichef.bbci.co.uk/images/ic/960x540/p0611lld.jpg",
+      "nationality": "USA"
+    }
+  },
+  {
+    "model": "main.artist",
+    "fk": 3,
+    "fields": {
+      "name": "tricot",
+      "photo_url": "https://ksassets.timeincuk.net/wp/uploads/sites/55/2015/02/2015Tricot_Asha_Press_020215.jpg",
+      "nationality": "Japan"
+    }
+  },
+  {
+    "model": "main.artist",
+    "fk": 4,
+    "fields": {
+      "name": "jamie xx",
+      "photo_url": "https://cdn1.thr.com/sites/default/files/imagecache/scale_crop_768_433/2017/01/gettyimages-613803564-h_2017.jpg",
+      "nationality": "UK"
+    }
+  }
+]
